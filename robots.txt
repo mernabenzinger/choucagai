@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooquaekaho.dephpend.com/sitemap.xml
